@@ -1,11 +1,9 @@
 import React from 'react';
 
-import Intro from './Intro';
-
 const Portfolio = () => {
   return (
     <div>
-      <Intro />
+      <h1>Portfolio</h1>
     </div>
   );
 }
